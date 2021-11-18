@@ -1,0 +1,67 @@
+keyboard_menu = {
+    "Type": "keyboard",
+	"Buttons": [{
+		"Columns": 2,
+		"Rows": 1,
+		"Text": "Графік",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "1",
+		"BgColor": "#f7bb3f",
+	}, {
+		"Columns": 2,
+		"Rows": 1,
+		"Text": "Адреса",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "2",
+		"BgColor": "#7eceea",
+	}, {
+		"Columns": 2,
+		"Rows": 1,
+		"Text": "На карті",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "3",
+		"BgColor": "#f7bb3f",
+	}, {
+		"Columns": 2,
+		"Rows": 1,
+		"Text": "Послуги",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "4",
+		"BgColor": "#7eceea",
+	}, {
+		"Columns": 2,
+		"Rows": 1,
+		"Text": "Акція",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "5",
+		"BgColor": "#f7bb3f",
+
+	}, {
+		"Columns": 2,
+		"Rows": 1,
+		"Text": "Про нас",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "6",
+		"BgColor": "#7eceea",
+
+	}]
+}
+#"Text": "<br><font color=\"#494E67\"><b>Привіт</b></font>"
